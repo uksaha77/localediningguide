@@ -1,4 +1,4 @@
-# localediningguide
+# Locale Dining Guide
 A directory of local restaurants and food recommendations.
 
 Project Concept:
