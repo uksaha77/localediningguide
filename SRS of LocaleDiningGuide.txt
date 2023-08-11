@@ -52,6 +52,9 @@ Search Functionality: Implement a robust search feature to quickly find restaura
 
 Newsletter Subscription: Allow users to subscribe to newsletters for updates on new restaurants and culinary events.
 
+
+Newsletter Subscription: Allow users to subscribe to newsletters for updates on new restaurants and culinary events.
+
 updated....
 
 Modified by Mir Mohaiminul Islam(00-30111).
