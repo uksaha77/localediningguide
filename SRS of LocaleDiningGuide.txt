@@ -1,4 +1,4 @@
-Local Dining Guide
+LocaleDiningGuide
 
 Project Concept: 
 A directory of local restaurants and food recommendations.
@@ -54,4 +54,4 @@ Newsletter Subscription: Allow users to subscribe to newsletters for updates on 
 
 
 
-BJIT Academy - J2EE
+BJIT Academy - J2EE (shadril238)
