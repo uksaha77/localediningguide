@@ -1,4 +1,4 @@
-Local Dining Guide
+LocaleDiningGuide
 
 Project Concept: 
 A directory of local restaurants and food recommendations.
@@ -55,4 +55,6 @@ Newsletter Subscription: Allow users to subscribe to newsletters for updates on 
 updated....
 
 Modified by Mir Mohaiminul Islam(00-30111).
+
+Lorem (shadril)
 
