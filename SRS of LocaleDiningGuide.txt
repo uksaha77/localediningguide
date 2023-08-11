@@ -1,4 +1,4 @@
-Local Dining Guide
+LocaleDiningGuide
 
 Project Concept: 
 A directory of local restaurants and food recommendations.
@@ -51,3 +51,7 @@ Admin Dashboard: Provide an admin panel to manage restaurant listings, user revi
 Search Functionality: Implement a robust search feature to quickly find restaurants based on various criteria.
 
 Newsletter Subscription: Allow users to subscribe to newsletters for updates on new restaurants and culinary events.
+
+
+Lorem (shadril)
+
