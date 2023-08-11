@@ -5,7 +5,7 @@ Project Concept:
 The LocaleDiningGuide is a comprehensive online platform that aims to connect food enthusiasts with local dining experiences, highlight unique culinary offerings, and facilitate community engagement around food. It will serve as a digital hub for discovering, sharing, and exploring the diverse culinary landscape of a specific region or locality.
 
 Development Technology:
-The LocaleDiningGuide project can be developed using a combination of technologies, including:
+The LocaleDiningGuide project can be developed using a combination of technologies, including:::
 
 Front-End:
 HTML, CSS, JavaScript
