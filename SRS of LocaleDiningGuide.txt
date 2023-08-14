@@ -63,4 +63,4 @@ Lorem (shadril)
 
 
 
-A new line added by Rifat Shadman. 
+A new line added by Rifat Shadman from SQA. 
