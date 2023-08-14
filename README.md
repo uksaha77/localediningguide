@@ -1,11 +1,18 @@
 # Locale Dining Guide
+
+This line added by jhoglu
+
+A directory of local 
+restaurants and food 
+recommendations.
+
 A directory of local restaurants and food recommendations.Auth.
 
 Project Concept:
 The LocaleDiningGuide is a comprehensive online platform that aims to connect food enthusiasts with local dining experiences, highlight unique culinary offerings, and facilitate community engagement around food. It will serve as a digital hub for discovering, sharing, and exploring the diverse culinary landscape of a specific region or locality.
 
 Development Technology:
-The LocaleDiningGuide project can be developed using a combination of technologies, including:
+The LocaleDiningGuide project can be developed using a combination of technologies, including:::
 
 Front-End:
 HTML, CSS, JavaScript
@@ -50,3 +57,4 @@ Admin Dashboard: Provide an admin panel to manage restaurant listings, user revi
 Search Functionality: Implement a robust search feature to quickly find restaurants based on various criteria.
 
 Newsletter Subscription: Allow users to subscribe to newsletters for updates on new restaurants and culinary events.
+Modified by Mir Mohaiminul Islam.
