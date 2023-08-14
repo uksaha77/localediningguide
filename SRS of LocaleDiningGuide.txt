@@ -1,6 +1,8 @@
 Local Dining Guide
 This text line was added by Najrul.
 
+I am adding new line to make conflict.
+
 Project Concept: 
 A directory of local restaurants and food recommendations.
 
@@ -62,3 +64,6 @@ Modified by Mir Mohaiminul Islam(00-30111).
 
 Lorem (shadril)
 
+
+
+A new line added by Rifat Shadman from SQA. 
