@@ -1,5 +1,10 @@
 Local Dining Guide
+
+I am adding new line to make conflict.'
+New line added by Joy.
 This text line was added by Najrul.
+
+I am adding new line to make conflict.
 
 Project Concept: 
 A directory of local restaurants and food recommendations.
@@ -11,6 +16,7 @@ The LocaleDiningGuide project can be developed using a combination of technologi
 
 Front-End:
 HTML, CSS, JavaScript
+PHP, NodeJS
 React (Front-end framework)
 Map integration libraries (e.g., Leaflet) for location-based features
 Responsive design for mobile and desktop devices
@@ -62,3 +68,6 @@ Modified by Mir Mohaiminul Islam(00-30111).
 
 Lorem (shadril)
 
+
+
+A new line added by Rifat Shadman from SQA. 
