@@ -1,5 +1,8 @@
 Local Dining Guide
+This text line was added by Najrul.
+
 I am adding new line to make conflict.
+
 Project Concept: 
 A directory of local restaurants and food recommendations.
 
