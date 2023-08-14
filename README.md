@@ -6,6 +6,8 @@ A directory of local
 restaurants and food 
 recommendations.
 
+A directory of local restaurants and food recommendations.Auth.
+
 Project Concept:
 The LocaleDiningGuide is a comprehensive online platform that aims to connect food enthusiasts with local dining experiences, highlight unique culinary offerings, and facilitate community engagement around food. It will serve as a digital hub for discovering, sharing, and exploring the diverse culinary landscape of a specific region or locality.
 
