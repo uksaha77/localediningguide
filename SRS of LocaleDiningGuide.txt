@@ -1,5 +1,5 @@
 Local Dining Guide
-
+I am adding new line to make conflict.
 Project Concept: 
 A directory of local restaurants and food recommendations.
 
